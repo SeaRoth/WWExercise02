@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WW-Exercise-02</string>
+    <string name="title_activity_main">Contact List</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="placeholder_text">%s%s</string>
+    <string name="error_number">Please check the number inputted and try again</string>
+    <string name="error_name">Name cannot be empty</string>
+    <string name="contact_list">Contact List</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="number">Number</string>
+    <string name="delete">Delete</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="data_not_available">CLICK + TO ADD A CONTACT</string>
+
+    <string name="pop_list">Populate List</string>
+    <string name="clear_list">Clear List</string>
+</resources>
